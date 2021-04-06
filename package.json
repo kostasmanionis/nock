@@ -21,7 +21,9 @@
   },
   "main": "./index.js",
   "types": "types",
-  "publishConfig":{"registry":"https://npm.intranet.1stdibs.com/"},
+  "publishConfig": {
+    "registry": "https://npm.intranet.1stdibs.com/"
+  },
   "dependencies": {
     "debug": "^4.1.0",
     "json-stringify-safe": "^5.0.1",
