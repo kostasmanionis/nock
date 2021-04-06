@@ -7,7 +7,7 @@
     "testing",
     "isolation"
   ],
-  "version": "0.0.0-development",
+  "version": "13.0.11-dibs",
   "author": "Pedro Teixeira <pedro.teixeira@gmail.com>",
   "repository": {
     "type": "git",
